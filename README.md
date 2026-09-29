@@ -1,5 +1,17 @@
 # 👋 Hi, I'm Sushant Yadav
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./light.svg">
+    <img
+      src="./dark.svg"
+      alt="Sushant Yadav — Software Developer"
+      width="100%"
+    />
+  </picture>
+</p>
+
 ### 💻 Java-Focused Software Developer | B.Tech CSE Student | DSA Enthusiast
 
 <p align="center">
